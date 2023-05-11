@@ -20,7 +20,7 @@ timezone:
 
 title: Chishiki # the main title
 
-tagline: How i spend my time  # it will display as the sub-title
+tagline: In this blog i will document things that interest me. I'd also like to talk about how and with what i spend my time.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A fairly simple blog about things that interest me.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: blog.chishiki.de/assets/img/icon.jpg
+avatar: "/assets/img/icon.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
